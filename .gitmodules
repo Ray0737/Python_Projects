@@ -1,0 +1,9 @@
+[submodule "Computer_Vision_Practice"]
+	path = Computer_Vision_Practice
+	url = https://github.com/Ray0737/Computer_Vision_Practice.git
+[submodule "Incryption_Practice"]
+	path = Incryption_Practice
+	url = https://github.com/Ray0737/Incryption_Practice.git
+[submodule "POSN_Practice"]
+	path = POSN_Practice
+	url = https://github.com/Ray0737/POSN_Practice.git
